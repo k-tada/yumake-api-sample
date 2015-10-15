@@ -1,0 +1,19 @@
+{
+  "name": "yumake",
+  "version": "1.0.0",
+  "description": "YuMake API Sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  },
+  "dependencies": {
+    "cron": "^1.0.9",
+    "express": "^4.13.3",
+    "request": "^2.65.0"
+  }
+}

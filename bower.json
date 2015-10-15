@@ -1,0 +1,16 @@
+{
+  "name": "yumake",
+  "version": "0.0.0",
+  "description": "YuMake API Sample",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
